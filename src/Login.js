@@ -7,6 +7,7 @@ function Login() {
     <>
       <header>
         {/* Save space for NavBar */}
+        <NavBar />
       </header>
       <main>
         <h1>Login</h1>
